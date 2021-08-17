@@ -17,6 +17,11 @@ export default {
 			},
 		},
 		{
+			name: 'location',
+			type: 'string',
+			title: 'Location',
+		},
+		{
 			name: 'price',
 			type: 'price',
 			title: 'Starting Price',
