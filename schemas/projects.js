@@ -42,7 +42,7 @@ export default {
 			title: 'Project Image',
 		},
 		{
-			name: 'features',
+			name: 'featured',
 			type: 'boolean',
 			title: 'Featured',
 		},
